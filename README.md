@@ -1,3 +1,4 @@
 # LINUX3B
-Repositorio de Linux 3B, Periodo Agosto-Noviembre
+Repositorio de Linux 3B
+Josué Hernández Avelar
 
